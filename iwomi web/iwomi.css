@@ -1,0 +1,166 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navi1{
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    font-weight: 15;   
+    height: 3rem;
+    
+}
+nav{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 7rem;
+    margin-right: 7rem;
+}
+
+.navi1 i{
+    color: black;
+    padding: 1%;
+    font-size: 14px;
+}
+.navi1 div{
+}
+.phone{
+    width: 70%;
+    display: flex;
+}
+.phone div{
+    width: 40%;
+}
+.pics{
+    width: 20%;
+    
+}
+.icon{
+    width: 10%;
+    justify-content: space-between;
+    display: flex;
+}
+.icon i{
+    font-size: 20px;
+}
+.navi2{
+    display: flex;
+    padding-bottom: 2rem;
+}
+.links{
+    display: flex;
+    width: 80%;
+    margin-left: 13rem;
+    font-size: 13px;
+    justify-content: space-between;
+    padding-top: 6%;
+}
+a{
+     color: black;
+     font-weight: 700;
+     text-decoration: none;
+}
+.links a:hover{
+    color: rgb(84, 120, 46);
+}
+.image{
+    margin-bottom: 5rem;
+    width: 100%;
+}
+.bodies{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 7rem;
+    margin-right: 7rem;
+}
+.quisomme{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+    line-height: 2rem;
+}
+.quisomme i{
+    color: rgb(100, 145, 51);
+}
+button{
+    
+    border: solid rgb(84, 120, 46);
+    height: 3rem;
+    width: 10rem;
+    border-radius: 5px;
+    
+}
+.quisomme button{
+    background-color: rgb(84, 120, 46);
+    color: white;
+}
+.quisomme button:hover{
+        background-color: black;
+        border: solid black;
+        
+
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+.SER{
+    text-align: center;
+}
+.nosserv{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    line-height: 1.5rem;
+    font-weight: 500;
+    margin-top: 5rem;
+}
+.nosserv div{
+    width: 30%;
+}
+.nosserv button:hover{
+    background-color: rgb(84, 120, 46);
+}
+.nosprod{
+    display: flex;
+    text-align: center;
+    color: white;
+    justify-content: space-between;
+}
+.nosprod div{
+     background-color: rgb(84, 120, 46) ;;
+     height: 35rem;
+     width: 30rem;
+     margin-top: 1.5rem;
+     margin-left: 1.5rem;
+}
+.nosprod img{
+    width: 25rem;
+
+}
+.pro{
+    text-align: center;
+}
+.rect{
+    text-align: center;
+}
+.pic{
+    display: flex;
+    justify-content: space-between;
+}
+.pic img{
+    width: 10%;
+}
+.footer{
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.footer i{
+    color: white;
+
+}
+.footer div{
+    display: flex;
+}
